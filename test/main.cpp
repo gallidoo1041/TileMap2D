@@ -1,5 +1,5 @@
-#include "C:\Users\Admin\Documents\usb\C++\modules\TileMap2D.h"
-#include "C:\Users\Admin\Documents\usb\C++\modules\png\lodepng.h"
+#include "TileMap2D.h"
+#include "lodepng.h"
 
 int main()
 {
